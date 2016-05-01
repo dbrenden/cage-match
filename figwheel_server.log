@@ -1,0 +1,2394 @@
+[0mCompiling "resources/public/js/main.js" from ["src/"]...
+Compiling /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  resources/public/js/goog/deps.js
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.157 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src/"]...
+Compiling /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  resources/public/js/goog/deps.js
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.322 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src/"]...
+Compiling /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mANALYSIS ERROR: No such namespace: hum.core, could not locate hum/core.cljs, hum/core.cljc, or Closure namespace "hum.core" in file /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs on file null, line null, column null
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.143 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src/"]...
+Compiling /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mANALYSIS ERROR: No such namespace: hum.core, could not locate hum/core.cljs, hum/core.cljc, or Closure namespace "hum.core" in file /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs on file null, line null, column null
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.113 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src/"]...
+Compiling /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mANALYSIS ERROR: No such namespace: hum.core, could not locate hum/core.cljs, hum/core.cljc, or Closure namespace "hum.core" in file /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs on file null, line null, column null
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.101 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src/"]...
+Compiling /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  resources/public/js/goog/deps.js
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.251 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src/"]...
+Compiling /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.127 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src/"]...
+Compiling /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.128 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src/"]...
+Compiling /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.154 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src/"]...
+Copying jar:file:/Users/brendend/.m2/repository/org/clojure/clojurescript/1.8.40/clojurescript-1.8.40.jar!/clojure/walk.cljs to resources/public/js/clojure/walk.cljs
+Compiling resources/public/js/clojure/walk.cljs
+Copying jar:file:/Users/brendend/.m2/repository/org/omcljs/om/1.0.0-alpha26/om-1.0.0-alpha26.jar!/om/util.cljs to resources/public/js/om/util.cljs
+Compiling resources/public/js/om/util.cljs
+Copying jar:file:/Users/brendend/.m2/repository/org/omcljs/om/1.0.0-alpha26/om-1.0.0-alpha26.jar!/om/dom.cljs to resources/public/js/om/dom.cljs
+Compiling resources/public/js/om/dom.cljs
+Copying jar:file:/Users/brendend/.m2/repository/org/omcljs/om/1.0.0-alpha26/om-1.0.0-alpha26.jar!/om/next/cache.cljs to resources/public/js/om/next/cache.cljs
+Compiling resources/public/js/om/next/cache.cljs
+Copying jar:file:/Users/brendend/.m2/repository/org/clojure/clojurescript/1.8.40/clojurescript-1.8.40.jar!/clojure/zip.cljs to resources/public/js/clojure/zip.cljs
+Compiling resources/public/js/clojure/zip.cljs
+Copying jar:file:/Users/brendend/.m2/repository/org/omcljs/om/1.0.0-alpha26/om-1.0.0-alpha26.jar!/om/next/impl/parser.cljc to resources/public/js/om/next/impl/parser.cljc
+Compiling resources/public/js/om/next/impl/parser.cljc
+Copying jar:file:/Users/brendend/.m2/repository/org/omcljs/om/1.0.0-alpha26/om-1.0.0-alpha26.jar!/om/next/protocols.cljs to resources/public/js/om/next/protocols.cljs
+Compiling resources/public/js/om/next/protocols.cljs
+Copying jar:file:/Users/brendend/.m2/repository/org/omcljs/om/1.0.0-alpha26/om-1.0.0-alpha26.jar!/om/tempid.cljc to resources/public/js/om/tempid.cljc
+Compiling resources/public/js/om/tempid.cljc
+Copying jar:file:/Users/brendend/.m2/repository/com/cognitect/transit-cljs/0.8.232/transit-cljs-0.8.232.jar!/cognitect/transit.cljs to resources/public/js/cognitect/transit.cljs
+Compiling resources/public/js/cognitect/transit.cljs
+Copying jar:file:/Users/brendend/.m2/repository/org/omcljs/om/1.0.0-alpha26/om-1.0.0-alpha26.jar!/om/transit.cljc to resources/public/js/om/transit.cljc
+Compiling resources/public/js/om/transit.cljc
+Copying jar:file:/Users/brendend/.m2/repository/org/omcljs/om/1.0.0-alpha26/om-1.0.0-alpha26.jar!/om/next.cljs to resources/public/js/om/next.cljs
+Compiling resources/public/js/om/next.cljs
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs
+Copying jar:file:/Users/brendend/.m2/repository/cljsjs/react/0.14.3-0/react-0.14.3-0.jar!/cljsjs/react/development/react.inc.js to resources/public/js/react.inc.js
+Copying jar:file:/Users/brendend/.m2/repository/cljsjs/react-dom/0.14.3-1/react-dom-0.14.3-1.jar!/cljsjs/react-dom/development/react-dom.inc.js to resources/public/js/react-dom.inc.js
+Copying jar:file:/Users/brendend/.m2/repository/org/clojure/google-closure-library/0.0-20151016-61277aea/google-closure-library-0.0-20151016-61277aea.jar!/goog/html/safescript.js to resources/public/js/goog/html/safescript.js
+Copying jar:file:/Users/brendend/.m2/repository/org/clojure/google-closure-library/0.0-20151016-61277aea/google-closure-library-0.0-20151016-61277aea.jar!/goog/html/uncheckedconversions.js to resources/public/js/goog/html/uncheckedconversions.js
+Copying jar:file:/Users/brendend/.m2/repository/org/clojure/google-closure-library/0.0-20151016-61277aea/google-closure-library-0.0-20151016-61277aea.jar!/goog/structs/collection.js to resources/public/js/goog/structs/collection.js
+Copying jar:file:/Users/brendend/.m2/repository/org/clojure/google-closure-library/0.0-20151016-61277aea/google-closure-library-0.0-20151016-61277aea.jar!/goog/structs/set.js to resources/public/js/goog/structs/set.js
+Copying jar:file:/Users/brendend/.m2/repository/org/clojure/google-closure-library/0.0-20151016-61277aea/google-closure-library-0.0-20151016-61277aea.jar!/goog/debug/debug.js to resources/public/js/goog/debug/debug.js
+Copying jar:file:/Users/brendend/.m2/repository/org/clojure/google-closure-library/0.0-20151016-61277aea/google-closure-library-0.0-20151016-61277aea.jar!/goog/debug/logrecord.js to resources/public/js/goog/debug/logrecord.js
+Copying jar:file:/Users/brendend/.m2/repository/org/clojure/google-closure-library/0.0-20151016-61277aea/google-closure-library-0.0-20151016-61277aea.jar!/goog/debug/logbuffer.js to resources/public/js/goog/debug/logbuffer.js
+Copying jar:file:/Users/brendend/.m2/repository/org/clojure/google-closure-library/0.0-20151016-61277aea/google-closure-library-0.0-20151016-61277aea.jar!/goog/debug/logger.js to resources/public/js/goog/debug/logger.js
+Copying jar:file:/Users/brendend/.m2/repository/org/clojure/google-closure-library/0.0-20151016-61277aea/google-closure-library-0.0-20151016-61277aea.jar!/goog/debug/relativetimeprovider.js to resources/public/js/goog/debug/relativetimeprovider.js
+Copying jar:file:/Users/brendend/.m2/repository/org/clojure/google-closure-library/0.0-20151016-61277aea/google-closure-library-0.0-20151016-61277aea.jar!/goog/debug/formatter.js to resources/public/js/goog/debug/formatter.js
+Copying jar:file:/Users/brendend/.m2/repository/org/clojure/google-closure-library/0.0-20151016-61277aea/google-closure-library-0.0-20151016-61277aea.jar!/goog/debug/console.js to resources/public/js/goog/debug/console.js
+Copying jar:file:/Users/brendend/.m2/repository/org/clojure/google-closure-library/0.0-20151016-61277aea/google-closure-library-0.0-20151016-61277aea.jar!/goog/log/log.js to resources/public/js/goog/log/log.js
+Copying jar:file:/Users/brendend/.m2/repository/com/cognitect/transit-js/0.8.755/transit-js-0.8.755.jar!/com/cognitect/transit/util.js to resources/public/js/com/cognitect/transit/util.js
+Copying jar:file:/Users/brendend/.m2/repository/com/cognitect/transit-js/0.8.755/transit-js-0.8.755.jar!/com/cognitect/transit/eq.js to resources/public/js/com/cognitect/transit/eq.js
+Copying jar:file:/Users/brendend/.m2/repository/org/clojure/google-closure-library/0.0-20151016-61277aea/google-closure-library-0.0-20151016-61277aea.jar!/goog/math/long.js to resources/public/js/goog/math/long.js
+Copying jar:file:/Users/brendend/.m2/repository/com/cognitect/transit-js/0.8.755/transit-js-0.8.755.jar!/com/cognitect/transit/types.js to resources/public/js/com/cognitect/transit/types.js
+Copying jar:file:/Users/brendend/.m2/repository/com/cognitect/transit-js/0.8.755/transit-js-0.8.755.jar!/com/cognitect/transit/delimiters.js to resources/public/js/com/cognitect/transit/delimiters.js
+Copying jar:file:/Users/brendend/.m2/repository/com/cognitect/transit-js/0.8.755/transit-js-0.8.755.jar!/com/cognitect/transit/caching.js to resources/public/js/com/cognitect/transit/caching.js
+Copying jar:file:/Users/brendend/.m2/repository/com/cognitect/transit-js/0.8.755/transit-js-0.8.755.jar!/com/cognitect/transit/impl/decoder.js to resources/public/js/com/cognitect/transit/impl/decoder.js
+Copying jar:file:/Users/brendend/.m2/repository/com/cognitect/transit-js/0.8.755/transit-js-0.8.755.jar!/com/cognitect/transit/impl/reader.js to resources/public/js/com/cognitect/transit/impl/reader.js
+Copying jar:file:/Users/brendend/.m2/repository/com/cognitect/transit-js/0.8.755/transit-js-0.8.755.jar!/com/cognitect/transit/handlers.js to resources/public/js/com/cognitect/transit/handlers.js
+Copying jar:file:/Users/brendend/.m2/repository/com/cognitect/transit-js/0.8.755/transit-js-0.8.755.jar!/com/cognitect/transit/impl/writer.js to resources/public/js/com/cognitect/transit/impl/writer.js
+Copying jar:file:/Users/brendend/.m2/repository/com/cognitect/transit-js/0.8.755/transit-js-0.8.755.jar!/com/cognitect/transit.js to resources/public/js/com/cognitect/transit.js
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 4.285 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src/"]...
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.17 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src/"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.129 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src/"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.175 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src/"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.246 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src/"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.247 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src/"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.17 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src/"]...
+Compiling src/cage_match/core.cljs
+WARNING: HelloWorld at line 12 is being replaced at line 23 src/cage_match/core.cljs
+WARNING: hello at line 17 is being replaced at line 28 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.225 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src/"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.187 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src/"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.161 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src/"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.163 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src/"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.263 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src/"]...
+Compiling src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/Counter at line 29 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.179 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src/"]...
+Compiling src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/Counter at line 29 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.194 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src/"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.165 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src/"]...
+Compiling src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/app-state at line 20 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/app-state at line 24 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.252 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src/"]...
+Compiling src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/app-state at line 24 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.228 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src/"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.171 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src/"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.461 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src/"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.308 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src/"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.317 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src/"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.302 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src/"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.301 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src/"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.289 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src/"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.466 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src/"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.278 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src/"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.17 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src/"]...
+Compiling src/cage_match/core.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mANALYSIS ERROR: Unknown dot form of (. nil addEventListener nil) with classification [:cljs.analyzer/error :cljs.analyzer/symbol ()] at line 17 src/cage_match/core.cljs on file src/cage_match/core.cljs, line 17, column 22
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.168 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src/"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.159 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src/"]...
+Compiling src/cage_match/core.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mERROR: Map literal must contain an even number of forms on file /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs, line 19, column 31
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.121 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src/"]...
+Compiling src/cage_match/core.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mERROR: Map literal must contain an even number of forms on file /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs, line 19, column 39
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.097 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src/"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.179 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src/"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.156 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src/"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.179 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src/"]...
+Compiling src/cage_match/core.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mERROR: Map literal must contain an even number of forms on file /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs, line 20, column 33
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.102 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src/"]...
+Compiling src/cage_match/core.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mERROR: Map literal must contain an even number of forms on file /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs, line 20, column 33
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.09 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src/"]...
+Compiling src/cage_match/core.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mERROR: Map literal must contain an even number of forms on file /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs, line 20, column 40
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.118 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src/"]...
+Compiling src/cage_match/core.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mERROR: Map literal must contain an even number of forms on file /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs, line 20, column 40
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.11 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src/"]...
+Compiling src/cage_match/core.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mERROR: Map literal must contain an even number of forms on file /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs, line 21, column 31
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.106 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src/"]...
+Compiling src/cage_match/core.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mERROR: Map literal must contain an even number of forms on file /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs, line 21, column 36
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.105 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src/"]...
+Compiling src/cage_match/core.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mANALYSIS ERROR: Wrong number of args (0) passed to: core/defn--33970 at line 14 src/cage_match/core.cljs on file src/cage_match/core.cljs, line 14, column 1
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.099 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src/"]...
+Compiling src/cage_match/core.cljs
+WARNING: drop already refers to: cljs.core/drop being replaced by: cage-match.core/drop at line 15 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/files at line 17 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/dataTransfer at line 17 src/cage_match/core.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mERROR: Map literal must contain an even number of forms on file /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs, line 26, column 36
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.147 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src/"]...
+Compiling src/cage_match/core.cljs
+WARNING: drop already refers to: cljs.core/drop being replaced by: cage-match.core/drop at line 15 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/files at line 17 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/dataTransfer at line 17 src/cage_match/core.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mERROR: Map literal must contain an even number of forms on file /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs, line 27, column 36
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.135 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src/"]...
+Compiling src/cage_match/core.cljs
+WARNING: drop already refers to: cljs.core/drop being replaced by: cage-match.core/drop at line 15 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/files at line 17 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/dataTransfer at line 17 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.227 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src/"]...
+Compiling src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/files at line 17 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/dataTransfer at line 17 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.213 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src/"]...
+Compiling src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/files at line 17 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/dataTransfer at line 17 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.2 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src/"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.173 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src/"]...
+Compiling src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/dataTransfer at line 17 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.189 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src/"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.201 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src/"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.176 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src/"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.195 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src/"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.179 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  resources/public/js/goog/deps.js
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.341 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.251 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.191 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.178 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.175 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.161 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.19 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.186 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.177 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.207 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.288 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.274 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.407 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.334 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.247 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.242 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.172 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.17 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.238 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.17 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.171 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/file at line 21 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.272 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/file at line 21 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.187 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.193 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/drop-file at line 34 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.18 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/drop-file at line 35 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.195 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/drop-file at line 35 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.264 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mANALYSIS ERROR: No such namespace: hum.core, could not locate hum/core.cljs, hum/core.cljc, or Closure namespace "hum.core" in file src/cage_match/core.cljs on file null, line null, column null
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.178 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs
+Reading analysis cache for jar:file:/Users/brendend/.m2/repository/org/omcljs/om/1.0.0-alpha26/om-1.0.0-alpha26.jar!/om/next/cache.cljs
+Reading analysis cache for jar:file:/Users/brendend/.m2/repository/org/clojure/clojurescript/1.8.40/clojurescript-1.8.40.jar!/clojure/zip.cljs
+Reading analysis cache for jar:file:/Users/brendend/.m2/repository/org/omcljs/om/1.0.0-alpha26/om-1.0.0-alpha26.jar!/om/next/impl/parser.cljc
+Reading analysis cache for jar:file:/Users/brendend/.m2/repository/org/omcljs/om/1.0.0-alpha26/om-1.0.0-alpha26.jar!/om/next/protocols.cljs
+Reading analysis cache for jar:file:/Users/brendend/.m2/repository/org/omcljs/om/1.0.0-alpha26/om-1.0.0-alpha26.jar!/om/tempid.cljc
+Reading analysis cache for jar:file:/Users/brendend/.m2/repository/org/clojure/clojurescript/1.8.40/clojurescript-1.8.40.jar!/clojure/walk.cljs
+Reading analysis cache for jar:file:/Users/brendend/.m2/repository/com/cognitect/transit-cljs/0.8.232/transit-cljs-0.8.232.jar!/cognitect/transit.cljs
+Reading analysis cache for jar:file:/Users/brendend/.m2/repository/org/omcljs/om/1.0.0-alpha26/om-1.0.0-alpha26.jar!/om/transit.cljc
+Reading analysis cache for jar:file:/Users/brendend/.m2/repository/org/omcljs/om/1.0.0-alpha26/om-1.0.0-alpha26.jar!/om/next.cljs
+Reading analysis cache for jar:file:/Users/brendend/.m2/repository/org/clojure/clojurescript/1.8.40/clojurescript-1.8.40.jar!/cljs/reader.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for jar:file:/Users/brendend/.m2/repository/org/clojure/clojurescript/1.8.40/clojurescript-1.8.40.jar!/clojure/set.cljs
+Reading analysis cache for jar:file:/Users/brendend/.m2/repository/org/clojure/clojurescript/1.8.40/clojurescript-1.8.40.jar!/clojure/string.cljs
+Reading analysis cache for jar:file:/Users/brendend/.m2/repository/figwheel/figwheel/0.5.0-2/figwheel-0.5.0-2.jar!/figwheel/client/utils.cljs
+Reading analysis cache for jar:file:/Users/brendend/.m2/repository/figwheel/figwheel/0.5.0-2/figwheel-0.5.0-2.jar!/figwheel/client/file_reloading.cljs
+Reading analysis cache for jar:file:/Users/brendend/.m2/repository/figwheel/figwheel/0.5.0-2/figwheel-0.5.0-2.jar!/figwheel/client/socket.cljs
+Reading analysis cache for jar:file:/Users/brendend/.m2/repository/figwheel/figwheel/0.5.0-2/figwheel-0.5.0-2.jar!/figwheel/client/heads_up.cljs
+Reading analysis cache for jar:file:/Users/brendend/.m2/repository/figwheel/figwheel/0.5.0-2/figwheel-0.5.0-2.jar!/figwheel/client.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/target/figwheel_temp/dev/figwheel/connect.cljs to resources/public/js/figwheel/connect.cljs
+notifying browser that file changed:  resources/public/js/goog/deps.js
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.622 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs
+WARNING: No such namespace: async, could not locate async.cljs, async.cljc, or Closure namespace "" at line 42 /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs
+WARNING: Use of undeclared Var async/<! at line 42 /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs
+WARNING: No such namespace: async, could not locate async.cljs, async.cljc, or Closure namespace "" at line 46 /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs
+WARNING: Use of undeclared Var async/put! at line 46 /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs
+WARNING: No such namespace: async, could not locate async.cljs, async.cljc, or Closure namespace "" at line 49 /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs
+WARNING: Use of undeclared Var async/<! at line 49 /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs
+WARNING: No such namespace: async, could not locate async.cljs, async.cljc, or Closure namespace "" at line 51 /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs
+WARNING: Use of undeclared Var async/put! at line 51 /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.454 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs
+WARNING: No such namespace: async, could not locate async.cljs, async.cljc, or Closure namespace "" at line 43 /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs
+WARNING: Use of undeclared Var async/<! at line 43 /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs
+WARNING: No such namespace: async, could not locate async.cljs, async.cljc, or Closure namespace "" at line 47 /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs
+WARNING: Use of undeclared Var async/put! at line 47 /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs
+WARNING: No such namespace: async, could not locate async.cljs, async.cljc, or Closure namespace "" at line 50 /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs
+WARNING: Use of undeclared Var async/<! at line 50 /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs
+WARNING: No such namespace: async, could not locate async.cljs, async.cljc, or Closure namespace "" at line 52 /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs
+WARNING: Use of undeclared Var async/put! at line 52 /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.377 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs
+WARNING: No such namespace: async, could not locate async.cljs, async.cljc, or Closure namespace "" at line 43 /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs
+WARNING: Use of undeclared Var async/<! at line 43 /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs
+WARNING: No such namespace: async, could not locate async.cljs, async.cljc, or Closure namespace "" at line 50 /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs
+WARNING: Use of undeclared Var async/<! at line 50 /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs
+WARNING: No such namespace: async, could not locate async.cljs, async.cljc, or Closure namespace "" at line 52 /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs
+WARNING: Use of undeclared Var async/put! at line 52 /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.356 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs
+WARNING: No such namespace: async, could not locate async.cljs, async.cljc, or Closure namespace "" at line 43 /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs
+WARNING: Use of undeclared Var async/<! at line 43 /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs
+WARNING: No such namespace: async, could not locate async.cljs, async.cljc, or Closure namespace "" at line 52 /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs
+WARNING: Use of undeclared Var async/put! at line 52 /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.33 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs
+WARNING: No such namespace: async, could not locate async.cljs, async.cljc, or Closure namespace "" at line 43 /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs
+WARNING: Use of undeclared Var async/<! at line 43 /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.278 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.309 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mANALYSIS ERROR: Assert failed: Wrong number of arguments to recur
+(= (count val-ids) (count recurs)) at line 42 /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs on file /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs, line 42, column 1
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.226 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mANALYSIS ERROR: Assert failed: Wrong number of arguments to recur
+(= (count val-ids) (count recurs)) at line 42 /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs on file /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs, line 42, column 1
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.199 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mANALYSIS ERROR: Assert failed: Wrong number of arguments to recur
+(= (count val-ids) (count recurs)) at line 42 /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs on file /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs, line 42, column 1
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.149 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mANALYSIS ERROR: Invalid :refer, var macro cljs.core.async.macros/alts does not exist in file /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs on file null, line null, column null
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.098 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mANALYSIS ERROR: Invalid :refer, var macro cljs.core.async.macros/alts! does not exist in file /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs on file null, line null, column null
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.096 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mANALYSIS ERROR: Invalid :refer, var macro cljs.core.async.macros/alts! does not exist in file /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs on file null, line null, column null
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.104 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mANALYSIS ERROR: Invalid :refer, var macro cljs.core.async.macros/alts! does not exist in file /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs on file null, line null, column null
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.098 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mANALYSIS ERROR: Invalid :refer, var macro cljs.core.async.macros/alts! does not exist in file /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs on file null, line null, column null
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.093 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/timeout at line 50 /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/timeout at line 49 /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/timeout at line 52 /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.409 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/timeout at line 50 /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/timeout at line 49 /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/timeout at line 52 /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.319 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/timeout at line 50 /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/timeout at line 49 /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/time-out at line 52 /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.333 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/timeout at line 50 /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/timeout at line 49 /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.307 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.253 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.303 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.286 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/audio-date=a at line 53 /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.29 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.292 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.242 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.236 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.325 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.308 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.331 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.276 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  resources/public/js/goog/deps.js
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.476 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.3 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: Wrong number of args (0) passed to cljs.core.async/sliding-buffer at line 42 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.395 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.278 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying jar:file:/Users/brendend/.m2/repository/cljsjs/filesaverjs/1.1.20151003-0/filesaverjs-1.1.20151003-0.jar!/cljsjs/filesaverjs/development/filesaverjs.inc.js to resources/public/js/filesaverjs.inc.js
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.334 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.363 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.259 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.217 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.198 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.338 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.493 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.501 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.488 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.364 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.313 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.366 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mANALYSIS ERROR: Assert failed: Wrong number of arguments to recur
+(= (count val-ids) (count recurs)) at line 24 src/cage_match/core.cljs on file src/cage_match/core.cljs, line 24, column 3
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.142 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/time-out at line 32 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.283 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.276 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.484 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.372 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.369 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.36 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.302 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.318 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.383 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.353 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.267 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.424 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.348 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.298 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.347 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.352 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.341 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/x at line 34 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.592 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.404 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.278 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.415 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.356 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.429 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.539 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.386 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.711 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mANALYSIS ERROR: let requires a vector for its binding at line 24 src/cage_match/core.cljs on file src/cage_match/core.cljs, line 24, column 3
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.235 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/audio-chan at line 17 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/error at line 17 src/cage_match/core.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mANALYSIS ERROR: let requires a vector for its binding at line 26 src/cage_match/core.cljs on file src/cage_match/core.cljs, line 26, column 3
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.29 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/audio-chan at line 17 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/error at line 17 src/cage_match/core.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mANALYSIS ERROR: let requires a vector for its binding at line 26 src/cage_match/core.cljs on file src/cage_match/core.cljs, line 26, column 3
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.213 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mANALYSIS ERROR: let requires a vector for its binding at line 26 src/cage_match/core.cljs on file src/cage_match/core.cljs, line 26, column 3
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.169 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.338 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/capture-map at line 25 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/capture-map at line 25 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/capture-map at line 25 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/capture-map at line 25 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/capture-map at line 25 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.411 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.273 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.26 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.282 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.316 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.291 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.384 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.323 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.27 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.278 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.347 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.317 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.377 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mANALYSIS ERROR: let requires an even number of forms in binding vector at line 25 src/cage_match/core.cljs on file src/cage_match/core.cljs, line 25, column 3
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.374 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mANALYSIS ERROR: let requires an even number of forms in binding vector at line 27 src/cage_match/core.cljs on file src/cage_match/core.cljs, line 27, column 3
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.242 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mANALYSIS ERROR: let requires an even number of forms in binding vector at line 27 src/cage_match/core.cljs on file src/cage_match/core.cljs, line 27, column 3
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.1 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  resources/public/js/goog/deps.js
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.639 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.436 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/capture-audio-map at line 26 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/capture-audio-map at line 26 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/capture-audio-map at line 26 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/capture-audio-map at line 26 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/capture-audio-map at line 26 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.534 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.421 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.267 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.396 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.636 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.479 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mANALYSIS ERROR: Assert failed: Wrong number of arguments to recur
+(= (count val-ids) (count recurs)) at line 44 src/cage_match/core.cljs on file src/cage_match/core.cljs, line 44, column 1
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.243 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mANALYSIS ERROR: Assert failed: Wrong number of arguments to recur
+(= (count val-ids) (count recurs)) at line 44 src/cage_match/core.cljs on file src/cage_match/core.cljs, line 44, column 1
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.252 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mANALYSIS ERROR: Assert failed: Wrong number of arguments to recur
+(= (count val-ids) (count recurs)) at line 44 src/cage_match/core.cljs on file src/cage_match/core.cljs, line 44, column 1
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.234 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mANALYSIS ERROR: Assert failed: Wrong number of arguments to recur
+(= (count val-ids) (count recurs)) at line 44 src/cage_match/core.cljs on file src/cage_match/core.cljs, line 44, column 1
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.373 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mANALYSIS ERROR: Assert failed: Wrong number of arguments to recur
+(= (count val-ids) (count recurs)) at line 44 src/cage_match/core.cljs on file src/cage_match/core.cljs, line 44, column 1
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.239 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mANALYSIS ERROR: Assert failed: Wrong number of arguments to recur
+(= (count val-ids) (count recurs)) at line 44 src/cage_match/core.cljs on file src/cage_match/core.cljs, line 44, column 1
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.207 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.263 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/command< at line 57 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.305 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.318 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.446 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mERROR: Invalid token: : on file /Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs, line 61, column 48
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.136 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: Wrong number of args (3) passed to cljs.core.async.impl.ioc-helpers/put! at line 46 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.346 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mANALYSIS ERROR: let requires an even number of forms in binding vector at line 46 src/cage_match/core.cljs on file src/cage_match/core.cljs, line 46, column 3
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.148 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mANALYSIS ERROR: let requires an even number of forms in binding vector at line 46 src/cage_match/core.cljs on file src/cage_match/core.cljs, line 46, column 3
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.152 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.347 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mANALYSIS ERROR: Parameter declaration "fn" should be a vector at line 18 src/cage_match/core.cljs on file src/cage_match/core.cljs, line 18, column 1
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.101 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/init-processing at line 39 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.314 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/init-processing at line 43 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.366 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/init-processing at line 43 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.378 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/init-processing at line 44 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.345 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/init-processing at line 45 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.35 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: Wrong number of args (2) passed to cljs.core.async.impl.ioc-helpers/put! at line 27 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/init-processing at line 46 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.366 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: Wrong number of args (2) passed to cljs.core.async.impl.ioc-helpers/put! at line 27 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/init-processing at line 46 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.4 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/init-processing at line 46 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.343 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/commands< at line 46 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/publish< at line 46 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.365 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.387 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/command< at line 71 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.349 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/command< at line 71 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.342 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.351 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.348 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.362 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.4 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.333 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.377 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.396 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.358 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.35 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.406 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.346 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.355 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.379 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.354 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/commands< at line 53 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/publish< at line 53 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/commands< at line 79 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/publish< at line 79 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.527 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/commands< at line 53 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/publish< at line 53 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.416 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.36 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.361 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.365 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.413 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  resources/public/js/goog/deps.js
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.806 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.435 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.407 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.372 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/commands> at line 32 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/commands> at line 35 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/publish> at line 39 src/cage_match/core.cljs
+WARNING: Wrong number of args (2) passed to cage-match.core/init-processing-fn at line 53 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.526 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: Wrong number of args (2) passed to cage-match.core/init-processing-fn at line 44 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.383 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: Wrong number of args (2) passed to cage-match.core/init-processing-fn at line 45 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.366 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: Wrong number of args (2) passed to cage-match.core/init-processing-fn at line 45 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.374 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.456 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.355 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: Wrong number of args (3) passed to cage-match.core/recording-loop at line 70 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.375 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: Wrong number of args (3) passed to cage-match.core/recording-loop at line 70 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.38 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: Wrong number of args (3) passed to cage-match.core/recording-loop at line 70 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.415 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: Wrong number of args (3) passed to cage-match.core/recording-loop at line 71 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.367 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: Wrong number of args (3) passed to cage-match.core/recording-loop at line 72 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.385 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.362 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.388 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/start at line 72 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.391 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/events at line 45 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/events at line 59 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.395 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/events> at line 32 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/events at line 45 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/events at line 59 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.421 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/events at line 45 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/events at line 59 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.426 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/events at line 45 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/events at line 59 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.404 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/events at line 45 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.383 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.351 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/publish> at line 68 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/commands> at line 61 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/commands> at line 64 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.46 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/publish> at line 68 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/commands> at line 61 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/commands> at line 64 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.424 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/commands> at line 61 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/commands> at line 64 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/publish> at line 68 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.436 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/commands> at line 61 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/commands> at line 64 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/publish> at line 68 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.447 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/init-recording at line 59 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.456 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/start< at line 54 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/commands> at line 56 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/commands> at line 59 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/publish> at line 63 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.476 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: Wrong number of args (0) passed to cage-match.core/init-recording at line 68 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.417 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: Wrong number of args (2) passed to cage-match.core/init-recording at line 68 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.437 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.375 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/commands> at line 73 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/publish> at line 73 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/publish< at line 75 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/publish< at line 76 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/commands< at line 82 src/cage_match/core.cljs
+WARNING: Wrong number of args (3) passed to cage-match.core/recording-loop at line 86 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  resources/public/js/goog/deps.js
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.812 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/commands> at line 71 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/publish> at line 71 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/publish< at line 73 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/publish< at line 74 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/commands< at line 80 src/cage_match/core.cljs
+WARNING: Wrong number of args (3) passed to cage-match.core/recording-loop at line 84 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/commands at line 84 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/publish at line 84 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.584 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mANALYSIS ERROR: Unsupported binding form: (def publish (chan)) at line 65 src/cage_match/core.cljs on file src/cage_match/core.cljs, line 65, column 3
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.229 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/commands> at line 73 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/publish> at line 73 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/publish< at line 75 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/publish< at line 76 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/commands< at line 82 src/cage_match/core.cljs
+WARNING: Wrong number of args (3) passed to cage-match.core/recording-loop at line 86 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/commands at line 86 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/publish at line 86 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.564 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/commands> at line 73 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/publish> at line 73 src/cage_match/core.cljs
+WARNING: Wrong number of args (3) passed to cage-match.core/recording-loop at line 86 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/commands at line 86 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/publish at line 86 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.59 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/commands> at line 73 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/publish> at line 73 src/cage_match/core.cljs
+WARNING: Wrong number of args (3) passed to cage-match.core/recording-loop at line 86 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/commands at line 86 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/publish at line 86 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.494 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/commands> at line 73 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/publish< at line 75 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/publish< at line 76 src/cage_match/core.cljs
+WARNING: Wrong number of args (3) passed to cage-match.core/recording-loop at line 86 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/commands at line 86 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/publish at line 86 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.525 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/publish< at line 75 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/publish< at line 76 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/commands< at line 82 src/cage_match/core.cljs
+WARNING: Wrong number of args (3) passed to cage-match.core/recording-loop at line 86 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/commands at line 86 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/publish at line 86 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.519 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/publish> at line 73 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/commands< at line 82 src/cage_match/core.cljs
+WARNING: Wrong number of args (3) passed to cage-match.core/recording-loop at line 86 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/commands at line 86 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/publish at line 86 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.539 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/commands> at line 73 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/publish> at line 73 src/cage_match/core.cljs
+WARNING: Wrong number of args (3) passed to cage-match.core/recording-loop at line 86 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/commands at line 86 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/publish at line 86 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.484 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/publish> at line 73 src/cage_match/core.cljs
+WARNING: Wrong number of args (3) passed to cage-match.core/recording-loop at line 86 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/commands at line 86 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/publish at line 86 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.512 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: Wrong number of args (3) passed to cage-match.core/recording-loop at line 86 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/commands at line 86 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/publish at line 86 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.484 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.406 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/stop< at line 72 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.44 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.397 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.42 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.369 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/end< at line 85 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.435 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/end< at line 81 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/end< at line 86 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.444 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.406 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/start at line 43 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/start at line 89 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.465 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/start at line 43 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.418 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/start at line 43 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/start< at line 73 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.464 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/start at line 43 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.424 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/start> at line 30 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/start at line 43 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.461 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/start at line 43 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.422 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/start at line 43 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.456 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.406 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  resources/public/js/goog/deps.js
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.831 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.659 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.511 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.394 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.345 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.465 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.373 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.394 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/audio-chan at line 55 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.424 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/audio-chan at line 52 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/audio-chan at line 55 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.45 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/publish> at line 59 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.424 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.372 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.392 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.395 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/ui at line 31 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/Object at line 31 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/render at line 32 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/this at line 32 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/this at line 33 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/Uploader at line 46 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.562 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/Uploader at line 46 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.559 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mANALYSIS ERROR: Too many arguments to def at line 31 src/cage_match/core.cljs on file src/cage_match/core.cljs, line 31, column 1
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.168 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mANALYSIS ERROR: Too many arguments to def at line 31 src/cage_match/core.cljs on file src/cage_match/core.cljs, line 31, column 1
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.126 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mANALYSIS ERROR: Too many arguments to def at line 31 src/cage_match/core.cljs on file src/cage_match/core.cljs, line 31, column 1
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.125 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.473 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: Wrong number of args (2) passed to cage-match.core/init-recording at line 65 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.514 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.407 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.418 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.43 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.392 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.47 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.548 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.456 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.54 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mANALYSIS ERROR: No implementation of method: :emit-instruction of protocol: #'cljs.core.async.impl.ioc-macros/IEmittableInstruction found for class: cljs.core.async.impl.ioc_macros.Jmp at line 68 src/cage_match/core.cljs on file src/cage_match/core.cljs, line 68, column 3
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.253 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.49 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.499 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.441 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.486 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: init-recording at line 50 is being replaced at line 67 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/recording-loop at line 76 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/recording-loop at line 87 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.562 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: Wrong number of args (1) passed to cage-match.core/recording-loop at line 87 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.492 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.439 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  resources/public/js/goog/deps.js
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.663 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.451 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.78 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/begin at line 46 src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/begin at line 83 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.029 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mANALYSIS ERROR: Too many arguments to def at line 45 src/cage_match/core.cljs on file src/cage_match/core.cljs, line 45, column 1
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.223 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mANALYSIS ERROR: Too many arguments to def at line 45 src/cage_match/core.cljs on file src/cage_match/core.cljs, line 45, column 1
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.174 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mANALYSIS ERROR: Too many arguments to def at line 45 src/cage_match/core.cljs on file src/cage_match/core.cljs, line 45, column 1
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.168 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mANALYSIS ERROR: Too many arguments to def at line 45 src/cage_match/core.cljs on file src/cage_match/core.cljs, line 45, column 1
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.179 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/init-recording at line 48 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.449 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/init-recording at line 48 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.279 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/recording-loop at line 54 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.479 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+WARNING: Use of undeclared Var cage-match.core/recording-loop at line 54 src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.372 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/cage_match/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/brendend/Dropbox/Dev/Art/cage-match/src/cage_match/core.cljs to resources/public/js/cage_match/core.cljs
+notifying browser that file changed:  out/cage_match/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.402 seconds.[0m
