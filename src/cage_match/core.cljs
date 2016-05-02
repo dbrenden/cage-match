@@ -14,6 +14,30 @@
 (def app-state (atom nil))
 
 (defonce file-temp (atom nil))
+(defonce array-buffer-temp (atom nil))
+(defonce audio-buffer-temp (atom nil))
+
+(defn get-audio-buffer
+  [audio-data]
+  (let [result> (chan)
+        ctx (cond
+              (exists? js/AudioContext) (js/AudioContext.)
+              (exists? js/webkitAudioContext) (js/webkitAudioContext.))
+        source (.createBufferSource ctx)]
+    (.then (.decodeAudioData ctx audio-data) (fn [d] #_(go (>! result> d))
+                                               (set! (.-buffer source) d)
+                                               (.connect source (.-destination ctx))
+                                               (.start source 0)))
+    ctx))
+
+(defn get-array-buffer
+  [file]
+  (let [result> (chan)
+        reader (js/FileReader.)]
+    (set! (.-onload reader)
+          (fn [e] (go (>! result> (.. e -target -result)))))
+    (.readAsArrayBuffer reader file)
+    result>))
 
 (defn init-processing-fn
   [begin>]
@@ -60,7 +84,7 @@
     (recur)))
 
 (defn init-recording
-  [begin<]
+  [begin< ]
   (go
     (let [{:keys [audio-chan error]} (<! (capture-audio (sliding-buffer 10)))
           publish< (chan)
@@ -73,7 +97,7 @@
             (let [[v c] (alts! [audio-chan publish<])]
               (if-not (= c publish<)
                 (recur (conj audio-data v))
-                (do (js/saveAs (pcm-frames->wav audio-data) "mashup.wav")
+                (do #_(js/saveAs (pcm-frames->wav audio-data) "mashup.wav")
                     (>! end< :end)
                     (recur []))))))))))
 
